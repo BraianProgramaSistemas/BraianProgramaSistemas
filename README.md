@@ -39,7 +39,7 @@ Una herramienta de dibujo técnico pensada para facilitar brindando un uso gener
 |---|---|
 | Lenguajes | Python · HTML · CSS · JavaScript |
 | IA & Prompting | Claude · ChatGPT · Prompt engineering avanzado |
-| Automatización | Botmaker · Diagramas de flujo |
+| Automatización: Agents developer| Botmaker · Diagramas de flujo |
 | Entorno | VS Code · Git · GitHub |
 
 ---
