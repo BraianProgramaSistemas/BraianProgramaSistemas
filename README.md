@@ -51,40 +51,27 @@ Herramienta de dibujo técnico con estética de cuaderno y precisión de tablero
 
 ---
 
-### 📈 Estadísticas
-
+📈 Estadísticas
 <div align="center">
 
-![Braian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BraianProgramaSistemas&show_icons=true&theme=tokyonight&hide_border=true)
+Mostrar imagen
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BraianProgramaSistemas&layout=compact&theme=tokyonight&hide_border=true)
+Mostrar imagen
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BraianProgramaSistemas&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🐍 Actividad de contribuciones
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<img src="https://raw.githubusercontent.com/BraianProgramaSistemas/BraianProgramaSistemas/output/github-contribution-grid-snake.svg" alt="snake animation" />
-<!--END_SECTION:activity-->
+Mostrar imagen
 
 </div>
+🐍 Actividad de contribuciones
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BraianProgramaSistemas/BraianProgramaSistemas/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BraianProgramaSistemas/BraianProgramaSistemas/output/github-contribution-grid-snake.svg" /> <img alt="snake animation de contribuciones" src="https://raw.githubusercontent.com/BraianProgramaSistemas/BraianProgramaSistemas/output/github-contribution-grid-snake.svg" /> </picture> </div>
 
----
+Esta imagen la genera automáticamente el workflow .github/workflows/snake.yml (ver instrucciones abajo). Muestra tus contribuciones reales una vez que corra por primera vez.
 
-### 📬 Contacto
+📬 Contacto
 
 Si querés ver más proyectos o hablar de algo, encontrame por acá o abrí un issue en cualquier repo. Siempre estoy iterando algo nuevo 🛠️
 
----
-
 <div align="center">
 
-*"Saber pedirle bien a la IA es la mitad del trabajo. La otra mitad es entender lo que te devuelve."*
+"Saber pedirle bien a la IA es la mitad del trabajo. La otra mitad es entender lo que te devuelve."
 
 </div>
