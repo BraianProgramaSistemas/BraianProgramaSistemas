@@ -36,8 +36,6 @@ Herramienta de dibujo técnico con estética de cuaderno y precisión de tablero
 - Diseño oscuro con acento naranja 🟠
 - 100% offline, sin backend, sin login
 
-*Desarrollada en colaboración con IA (Claude) usando prompts estructurados e iteración técnica refinada.*
-
 ---
 
 ### 🛠️ Stack & herramientas
