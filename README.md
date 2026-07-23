@@ -75,8 +75,6 @@ Herramienta de dibujo técnico con estética de cuaderno y precisión de tablero
 
 </div>
 
-> ⚠️ Esta imagen se genera sola con una GitHub Action (te dejo el paso a paso abajo para activarla).
-
 ---
 
 ### 📬 Contacto
