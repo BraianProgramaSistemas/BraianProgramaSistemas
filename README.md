@@ -51,15 +51,6 @@ Herramienta de dibujo técnico con estética de cuaderno y precisión de tablero
 
 ---
 
-📈 Estadísticas
-<div align="center">
-
-Mostrar imagen
-
-Mostrar imagen
-
-Mostrar imagen
-
 </div>
 🐍 Actividad de contribuciones
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BraianProgramaSistemas/BraianProgramaSistemas/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BraianProgramaSistemas/BraianProgramaSistemas/output/github-contribution-grid-snake.svg" /> <img alt="snake animation de contribuciones" src="https://raw.githubusercontent.com/BraianProgramaSistemas/BraianProgramaSistemas/output/github-contribution-grid-snake.svg" /> </picture> </div>
