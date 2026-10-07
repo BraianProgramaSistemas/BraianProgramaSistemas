@@ -130,14 +130,14 @@
 
 ---
 
-## 🐍 Actividad de contribuciones
+## 🧊 Mis commits reales, en 3D
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BraianProgramaSistemas/BraianProgramaSistemas/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BraianProgramaSistemas/BraianProgramaSistemas/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation de contribuciones" src="https://raw.githubusercontent.com/BraianProgramaSistemas/BraianProgramaSistemas/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="Calendario 3D de contribuciones" src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
 </picture>
 
 <br/><br/>
